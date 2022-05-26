@@ -1,3 +1,3 @@
 # sprites
 
-![Sprites!](https://datas2k.github.io/sprites/)
+[Sprites!](https://datas2k.github.io/sprites/)
